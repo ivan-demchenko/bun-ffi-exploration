@@ -1,0 +1,4 @@
+(executable
+ (name main)
+ (public_name ocaml_ffi_lib)
+ (modes exe object))

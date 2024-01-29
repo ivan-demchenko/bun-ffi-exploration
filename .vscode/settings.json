@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "ocamllabs.ocaml-platform",
+  "ocaml.sandbox": {
+    "kind": "opam",
+    "switch": "default"
+  },
+  "cSpell.words": [
+    "cstring",
+    "repr"
+  ]
+}
